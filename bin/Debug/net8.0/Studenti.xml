@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ObalStudentu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Studenti>
+    <Student>
+      <KrestniJmeno>Liza</KrestniJmeno>
+      <Prijmeni>Bublic</Prijmeni>
+      <Obor>EFFP</Obor>
+      <Id>1</Id>
+      <RokNarozeni>2000</RokNarozeni>
+    </Student>
+    <Student>
+      <KrestniJmeno>Igor</KrestniJmeno>
+      <Prijmeni>Sterliv</Prijmeni>
+      <Obor>INFOP</Obor>
+      <Id>2</Id>
+      <RokNarozeni>2006</RokNarozeni>
+    </Student>
+  </Studenti>
+</ObalStudentu>

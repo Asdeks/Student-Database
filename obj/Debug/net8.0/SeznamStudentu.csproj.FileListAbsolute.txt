@@ -1,0 +1,14 @@
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\bin\Debug\net8.0\SeznamStudentu.exe
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\bin\Debug\net8.0\SeznamStudentu.deps.json
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\bin\Debug\net8.0\SeznamStudentu.runtimeconfig.json
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\bin\Debug\net8.0\SeznamStudentu.dll
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\bin\Debug\net8.0\SeznamStudentu.pdb
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.AssemblyInfoInputs.cache
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.AssemblyInfo.cs
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.csproj.CoreCompileInputs.cache
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.dll
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\refint\SeznamStudentu.dll
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.pdb
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\SeznamStudentu.genruntimeconfig.cache
+C:\Users\maxsp\OneDrive\Рабочий стол\УЧЕБА В ЧЗУ\Programm\Projekt Program\SeznamStudentu\SeznamStudentu\obj\Debug\net8.0\ref\SeznamStudentu.dll
